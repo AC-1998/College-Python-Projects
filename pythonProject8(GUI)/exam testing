@@ -1,0 +1,10 @@
+v = 6
+def f(v) :
+   print(v)
+   v = 1
+   print(v)
+   return v
+
+tst = f(2)
+print(v)
+print(tst)

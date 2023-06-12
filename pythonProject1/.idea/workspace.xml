@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37106cd5-4d5f-456f-90b4-4071ec823a71" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/0/502f28f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1/30900500dedb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/28/e041a616dedb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2a/a0f228f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2b/70250f1ddddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2f/40ba921191dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/41/d0ba5405e7db001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/42/b0126c7edddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/45/50c5ad80dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/46/408df409dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/52/40792af790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/52/a03993de8edc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/55/b01929f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/56/3060e1b3dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/58/3093921191dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5a/406623dedddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/61/004c2db6dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/61/c088c81f90dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/62/b0a03c89dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/65/e040941191dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6d/70398f4890dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6d/c069a8ccdcdb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/75/90cb28f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/75/b06c5405e7db001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/77/30629cb28fdc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7b/e0c90f62dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8f/007c9e10dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/90/60047920dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/97/80c24aa093dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9a/905a26f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a5/80f75305e7db001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a5/f04427f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a7/40a055dbdddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ac/505c914890dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ae/20f28089dcdb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ae/9099db5b9cdc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ae/c0f2931191dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b0/30e127f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b5/b016e802dedb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b9/80d1914890dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/bd/80a428f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c1/c00477c88fdc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c5/6097901191dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c6/304eb4c1dcdb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cb/f071904890dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d/c0cf26f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d0/90f4235fdddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d1/402623f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d5/109327f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d6/700c26f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d8/10126212eadb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/df/c0ccfc13dedb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/df/d0d04189dddb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e/b0290303e7db001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e5/00e8543ddedb001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/eb/1045921191dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/eb/f093a24b90dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f9/d06729f790dc001c1823a4a5aa8ebbdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/49/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/4e/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/56/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/62/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/8e/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/9e/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/b6/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Term Project/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/21.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/bin/Affirm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/bin/AffirmComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/bin/AffirmFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/src/Affirm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/src/AffirmComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Affirmation/src/AffirmFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-1/bin/diceGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-1/src/diceGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-2/Assigment-2 screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-2/Craps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-3/10000 Trial SC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-3/100000 Trial SC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-3/BirthdayCoincidenceAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-3/Million trial SC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-4/SudokuVerifier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-4/VerifySudokuSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-7/Affirm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-7/AffirmComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-7/AffirmFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-7/Screen Shot 2021-10-23 at 12.50.40 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assigment-7/Screen Shot 2021-10-23 at 12.50.50 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/Asteroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/Asteroid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/AsteroidGame$CloseQuit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/AsteroidGame$keyDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/AsteroidGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/Rocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/Station.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/missile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/bin/spaceBG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/src/Asteroid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/src/AsteroidGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/src/Asteroids.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/src/Rocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/src/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/src/missile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asteroids/src/spaceBG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/bin/NameComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/bin/NameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/bin/NameRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/names-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/src/NameComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/src/NameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/src/NameRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BabyNameTrends/src/Resources/names-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/bin/dict/IntDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/bin/dict/Tree234.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/bin/dict/Tree234Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/src/dict/IntDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/src/dict/Tree234.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced search trees/src/dict/Tree234Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/bin/dict/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/bin/dict/BinaryTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/bin/dict/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/bin/dict/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/src/dict/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/src/dict/BinaryTreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/src/dict/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Binary Trees/src/dict/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayCoincidence/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayCoincidence/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayCoincidence/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayCoincidence/bin/BirthdayCoincidence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayCoincidence/bin/BirthdayCoincidenceAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayCoincidence/src/BirthdayCoincidence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BirthdayCoincidence/src/BirthdayCoincidenceAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/CarrotComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/CarrotFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/Bugs_Bunny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/FrogDance-blank_molly.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/bugs-bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/bugs-bunny2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/bugs-bunny3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/bunny.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/bunny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/bunny2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/carrot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/carrot2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/cherry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/graphics-frogs-232259.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bin/Resources/pacman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bunny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/bunny2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/carrot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/CarrotComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/CarrotFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/Bugs_Bunny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/FrogDance-blank_molly.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/bugs-bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/bugs-bunny2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/bugs-bunny3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/bunny.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/bunny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/bunny2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/carrot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/carrot2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/cherry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/graphics-frogs-232259.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bunny and Carrots/src/Resources/pacman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/bin/Caterpillar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/bin/CaterpillarGame$KeyReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/bin/CaterpillarGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/src/Caterpillar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaterpillarGame/src/CaterpillarGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Craps/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Craps/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Craps/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Craps/bin/Craps$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Craps/bin/Craps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Craps/src/Craps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/bin/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date/src/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/bin/Maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/bin/set/DisjointSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/bin/set/HorizWall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/bin/set/VertWall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/bin/set/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/src/Maze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/src/set/DisjointSets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/src/set/HorizWall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/src/set/VertWall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Disjoint sets/src/set/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/Homework6Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/SimpleBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/dict/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/dict/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/dict/HashTableChained.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/list/DList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/list/DListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/list/InvalidNodeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/list/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/list/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/list/SList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/bin/list/SListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/Homework6Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/SimpleBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/dict/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/dict/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/dict/HashTableChained.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/list/DList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/list/DListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/list/InvalidNodeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/list/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/list/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/list/SList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hash Table/src/list/SListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World!/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World!/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World!/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World!/bin/hello_World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World!/src/hello_World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/bin/Homework3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/bin/SList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/bin/SListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/bin/TestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/src/Homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/src/SList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/src/SListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/src/TestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/bin/list/DList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/bin/list/DListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/src/list/DList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/src/list/DListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/bin/GRADER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/bin/ListSorts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/bin/Timer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/bin/list/LinkedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/bin/list/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/bin/list/QueueEmptyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/bin/list/SListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/src/GRADER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/src/ListSorts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/src/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/src/list/LinkedQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/src/list/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/src/list/QueueEmptyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListSorts/src/list/SListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nuke2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nuke2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nuke2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nuke2/bin/Nuke2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nuke2/src/Nuke2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenComercial/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenComercial/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenComercial/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenComercial/bin/homework_1/OpenCommercial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenComercial/src/homework_1/open_Comercial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCommercial/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCommercial/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCommercial/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/Resources/Pacman-world-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/Resources/bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/Resources/cherry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/Resources/pacman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/bin/PacmanComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/bin/PacmanFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/bin/PacmanPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/src/PacmanComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/src/PacmanFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PacmanGame/src/PacmanPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/car-blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/car-gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/car-orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/car-pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/car-purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/car-red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/dfrog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/dimond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/frog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/game.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/lily.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/lilyRed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/pdiamond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/roadrunner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/Resources/world.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/bin/FroggerComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/bin/FroggerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/bin/Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/src/FroggerComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/src/FroggerFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SaveTheFrogs/src/Row.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/bin/dict/BinaryTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/bin/dict/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/bin/dict/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/bin/dict/SplayTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/src/dict/BinaryTreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/src/dict/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/src/dict/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Splay Tree/src/dict/SplayTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/DFSVertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/GRADER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/KruskalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/Nothing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/Proj3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/WUGTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/dict/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/dict/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/dict/HashTableChained.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/graph/Neighbors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/graph/VertexPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/graph/WUGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/graphalg/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/graphalg/Kruskal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/DList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/DListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/InvalidNodeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/LinkedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/QueueEmptyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/list/SListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/queue/LinkedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/queue/QueueEmptyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/queue/SListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/set/DisjointSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/sorting/ListSorts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/bin/sorting/Timer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/GRADER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/KruskalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/KruskalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/WUGTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/graph/Neighbors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/graph/VertexPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/graph/WUGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/graphalg/Kruskal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/pj3graph.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/readme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/Proj3/set/DisjointSets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/WUGTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/dict/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/dict/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/dict/HashTableChained.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/graph/Neighbors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/graph/VertexPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/graph/WUGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/graphalg/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/graphalg/Kruskal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/DList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/DListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/InvalidNodeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/LinkedQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/ListIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/QueueEmptyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/list/SListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/queue/LinkedQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/queue/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/queue/QueueEmptyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/queue/SListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/set/DisjointSets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/sorting/ListSorts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Term Project/src/sorting/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerifySudokuSolution/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerifySudokuSolution/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerifySudokuSolution/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerifySudokuSolution/bin/VerifySudokuSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerifySudokuSolution/src/VerifySudokuSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/Bugs_Bunny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/FrogDance-blank_molly.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/bugs-bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/bugs-bunny2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/bugs-bunny3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/bunny.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/bunny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/bunny1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/bunny2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/carrot.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/carrot2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/cherry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/graphics-frogs-232259.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bunny carrot pacman images/pacman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/list/DList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/list/DListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/list/InvalidNodeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/list/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/list/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/list/SList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/bin/list/SListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/list/DList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/list/DListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/list/InvalidNodeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/list/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/list/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/list/SList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulate lists/src/list/SListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/bin/src/Caterpillar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/bin/src/CaterpillarGame$KeyReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/bin/src/CaterpillarGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/Caterpillar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/CaterpillarGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unweighted directed graph.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unweighted directed graph/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unweighted directed graph/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unweighted directed graph/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unweighted directed graph/bin/UDGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unweighted directed graph/src/UDGraph.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Kkatlq9gasiw4sDMg4Yorwstaf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37106cd5-4d5f-456f-90b4-4071ec823a71" name="Changes" comment="" />
+      <created>1674521252092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674521252092</updated>
+    </task>
+    <servers />
+  </component>
+</project>
